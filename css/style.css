@@ -2,4 +2,25 @@ body{
 	background-image: url(http://cf.ltkcdn.net/web-design/images/orig/170200-200x200-pink-bg.gif);
 	background-size: 
 
+} 
+
+p {
+	font-size: 55px ;
+	font-style: ;
+	color: #FFFFFF
+
+}
+.smileyface{
+	background-image: url(http://zoes4thgradewebsite.yolasite.com/resources/pink_glitter_smiley_face.gif);
+}
+.hearts{
+	background-image: url(http://i201.photobucket.com/albums/aa113/Lee1959/Love/PassionHearts.gif);
+}
+.letter{
+	background-image: url(http://i.imgur.com/siwL2zX.jpg);
+}
+.nav a{
+	font-size: 25px;
+	font-style: ;
+	color: 
 }
