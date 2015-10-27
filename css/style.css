@@ -5,19 +5,13 @@ body{
 } 
 
 p {
-	font-size: 55px ;
+	font-size:     70px;
 	font-family: Serif;
 	color: #FFFFFF
 
 }
-.smileyface{
-	background-image: url(http://zoes4thgradewebsite.yolasite.com/resources/pink_glitter_smiley_face.gif);
-}
-.my2{
-	background-image: url(http://i.imgur.com/fBV6qa4.jpg);
-	background-size: 
 	 
-}
+
 .letter{
 	background-image: url(http://i.imgur.com/v3MLh95.png);
 	background-size: 1990px;
@@ -33,4 +27,14 @@ font-size: 60px;
 font-family: fantasy;
 color: #FA58D0;
 
+}
+p {
+	font-size: 55px;
+	font-family: fantasy;
+	color: #FF8000;
+}
+p{
+	font-size: 75px;
+	font-family: fantasy;
+	color: #FFFFFF;
 }
