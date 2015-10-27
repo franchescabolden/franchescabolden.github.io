@@ -6,21 +6,31 @@ body{
 
 p {
 	font-size: 55px ;
-	font-style: ;
+	font-family: Serif;
 	color: #FFFFFF
 
 }
 .smileyface{
 	background-image: url(http://zoes4thgradewebsite.yolasite.com/resources/pink_glitter_smiley_face.gif);
 }
-.hearts{
-	background-image: url(http://i201.photobucket.com/albums/aa113/Lee1959/Love/PassionHearts.gif);
+.my2{
+	background-image: url(http://i.imgur.com/fBV6qa4.jpg);
+	background-size: 
+	 
 }
 .letter{
-	background-image: url(http://i.imgur.com/siwL2zX.jpg);
+	background-image: url(http://i.imgur.com/v3MLh95.png);
+	background-size: 1990px;
 }
 .nav a{
 	font-size: 25px;
 	font-style: ;
 	color: 
+}
+
+h1 {
+font-size: 60px;
+font-family: fantasy;
+color: #FA58D0;
+
 }
